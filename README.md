@@ -8,23 +8,23 @@ com o intuito de por em prática os conhecimentos adquiridos no curso de Nodejs
 
   <ul>
     <li>API</li>
-MongoDB
-Mongoose
-Javascript
-NodeJS
-Express
-Cors
-DotEnv
-Padrões REST
-Verbos HTTPS
-Status Code
-Endpoints amigáveis
-Params, Querys e afins
-ESlint
-Erettier
-Editorconfig
-Yup
-Multer
-Insominia
+<li>MongoDB<li>
+<li>Mongoose<li>
+<li>Javascript<li>
+<li>NodeJS<li>
+<li>Express<li>
+<li>Cors<li>
+<li>DotEnv<li>
+<li>Padrões REST<li>
+<li>Verbos HTTPS<li>
+<li>Status Code<li>
+<li>Endpoints amigáveis<li>
+<li>Params, Querys e afins<li>
+<li>ESlint<li>
+<li>Erettier<li>
+<li>Editorconfig<li>
+<li>Yup<li>
+<li>Multer<li>
+<li>Insominia<li>
     </ul>
 </section>
