@@ -3,9 +3,11 @@
 API REST feita para aluguel de casas, 
 com o intuito de por em prática os conhecimentos adquiridos no curso de Nodejs
 
+<section>
 <h2>Ferramentas e Tecnologias utilizadas</h2>
 
-API
+  <ul>
+    <li>API</li>
 MongoDB
 Mongoose
 Javascript
@@ -24,3 +26,5 @@ Editorconfig
 Yup
 Multer
 Insominia
+    </ul>
+</section>
